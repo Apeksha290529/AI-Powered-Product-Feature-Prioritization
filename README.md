@@ -1,7 +1,7 @@
 # AI-Powered Product Feature Prioritization Framework
 
 ## Product Management Portfolio Project
-![](Futuristic Robotics Lab.png)
+![AI Product Feature Prioritization](Futuristic%20Robotics%20Lab.png)
 
 An AI-assisted Product Management framework designed to help product teams evaluate, prioritize and roadmap product features using customer insights, business value, development effort, technical risk and structured prioritization frameworks.
 
