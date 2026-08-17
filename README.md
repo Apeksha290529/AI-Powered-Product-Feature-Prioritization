@@ -238,7 +238,7 @@ Features intentionally postponed to a future stage.
 
 ---
 
-# 😊 Kano Model
+# 🤖 Kano Model
 
 The Kano Model helps understand the relationship between product features and customer satisfaction.
 
@@ -307,6 +307,7 @@ Therefore:
 ---
 
 # 📊 Interactive Dashboard
+![AI-Powered Product Feature Prioritization Dashboard](AI_Feature_Prioritization_Dashboard.png)
 
 The project includes an interactive Product Management dashboard.
 
